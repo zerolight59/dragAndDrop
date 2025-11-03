@@ -14,6 +14,7 @@ export const Column = ({tasks}) => {
         }
         </SortableContext>
         
+        
     </div>
   )
 }
